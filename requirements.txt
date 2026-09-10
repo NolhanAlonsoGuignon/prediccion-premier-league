@@ -1,6 +1,7 @@
 pandas>=2.2
 numpy>=1.26
 scipy>=1.13
+matplotlib>=3.9
 pyspark>=4.0
 jupyter>=1.0
 ipython>=8.20
