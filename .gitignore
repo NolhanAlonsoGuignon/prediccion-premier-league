@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

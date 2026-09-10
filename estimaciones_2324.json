@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "train_seasons": [
+      "2021",
+      "2122",
+      "2223",
+      "2324"
+    ],
+    "test_seasons": [
+      "2425"
+    ],
+    "xi": 0.00325,
+    "rho": -0.01,
+    "home_adv": 0.2036,
+    "converged": true,
+    "log_likelihood": -1096.66,
+    "new_teams": [
+      "Ipswich"
+    ],
+    "reference_teams_for_new": [
+      "Luton",
+      "Norwich",
+      "Watford",
+      "West Brom"
+    ]
+  },
+  "teams": {
+    "Man City": {
+      "log_attack": 0.0854,
+      "attack": 1.0891,
+      "log_defence": 0.1132,
+      "is_new": false
+    },
+    "Arsenal": {
+      "log_attack": 0.0,
+      "attack": 1.0,
+      "log_defence": 0.1444,
+      "is_new": false
+    },
+    "Liverpool": {
+      "log_attack": -0.0563,
+      "attack": 0.9452,
+      "log_defence": 0.4108,
+      "is_new": false
+    },
+    "Newcastle": {
+      "log_attack": -0.1002,
+      "attack": 0.9046,
+      "log_defence": 0.6936,
+      "is_new": false
+    },
+    "Tottenham": {
+      "log_attack": -0.201,
+      "attack": 0.8179,
+      "log_defence": 0.7582,
+      "is_new": false
+    },
+    "Chelsea": {
+      "log_attack": -0.2059,
+      "attack": 0.8139,
+      "log_defence": 0.7043,
+      "is_new": false
+    },
+    "Aston Villa": {
+      "log_attack": -0.2568,
+      "attack": 0.7735,
+      "log_defence": 0.6953,
+      "is_new": false
+    },
+    "Man United": {
+      "log_attack": -0.3905,
+      "attack": 0.6767,
+      "log_defence": 0.6321,
+      "is_new": false
+    },
+    "Crystal Palace": {
+      "log_attack": -0.4271,
+      "attack": 0.6524,
+      "log_defence": 0.6196,
+      "is_new": false
+    },
+    "West Ham": {
+      "log_attack": -0.4274,
+      "attack": 0.6522,
+      "log_defence": 0.8824,
+      "is_new": false
+    },
+    "Brentford": {
+      "log_attack": -0.4468,
+      "attack": 0.6397,
+      "log_defence": 0.713,
+      "is_new": false
+    },
+    "Fulham": {
+      "log_attack": -0.4597,
+      "attack": 0.6315,
+      "log_defence": 0.695,
+      "is_new": false
+    },
+    "Leicester": {
+      "log_attack": -0.469,
+      "attack": 0.6256,
+      "log_defence": 0.783,
+      "is_new": false
+    },
+    "Luton": {
+      "log_attack": -0.4763,
+      "attack": 0.6211,
+      "log_defence": 1.0989,
+      "is_new": false
+    },
+    "Brighton": {
+      "log_attack": -0.4844,
+      "attack": 0.6161,
+      "log_defence": 0.6871,
+      "is_new": false
+    },
+    "Bournemouth": {
+      "log_attack": -0.5409,
+      "attack": 0.5822,
+      "log_defence": 0.809,
+      "is_new": false
+    },
+    "Leeds": {
+      "log_attack": -0.5849,
+      "attack": 0.5572,
+      "log_defence": 0.9876,
+      "is_new": false
+    },
+    "Nott'm Forest": {
+      "log_attack": -0.5883,
+      "attack": 0.5553,
+      "log_defence": 0.8309,
+      "is_new": false
+    },
+    "Wolves": {
+      "log_attack": -0.6836,
+      "attack": 0.5048,
+      "log_defence": 0.7597,
+      "is_new": false
+    },
+    "Burnley": {
+      "log_attack": -0.7436,
+      "attack": 0.4754,
+      "log_defence": 0.9218,
+      "is_new": false
+    },
+    "Southampton": {
+      "log_attack": -0.7582,
+      "attack": 0.4685,
+      "log_defence": 0.9236,
+      "is_new": false
+    },
+    "Everton": {
+      "log_attack": -0.8082,
+      "attack": 0.4456,
+      "log_defence": 0.5767,
+      "is_new": false
+    },
+    "West Brom": {
+      "log_attack": -0.8654,
+      "attack": 0.4209,
+      "log_defence": 0.9389,
+      "is_new": false
+    },
+    "Sheffield United": {
+      "log_attack": -0.8794,
+      "attack": 0.415,
+      "log_defence": 1.2635,
+      "is_new": false
+    },
+    "Ipswich": {
+      "log_attack": -0.9127,
+      "attack": 0.4014,
+      "log_defence": 1.0329,
+      "is_new": true
+    },
+    "Watford": {
+      "log_attack": -1.0081,
+      "attack": 0.3649,
+      "log_defence": 1.0084,
+      "is_new": false
+    },
+    "Norwich": {
+      "log_attack": -1.3012,
+      "attack": 0.2722,
+      "log_defence": 1.0853,
+      "is_new": false
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "train_seasons": [
+      "2021",
+      "2122",
+      "2223",
+      "2324",
+      "2425"
+    ],
+    "test_seasons": [
+      "2526"
+    ],
+    "xi": 0.00325,
+    "rho": -0.0026,
+    "home_adv": 0.1118,
+    "converged": true,
+    "log_likelihood": -1060.06,
+    "new_teams": [
+      "Sunderland"
+    ],
+    "reference_teams_for_new": [
+      "Ipswich",
+      "Luton",
+      "Norwich",
+      "Watford",
+      "West Brom"
+    ]
+  },
+  "teams": {
+    "Liverpool": {
+      "log_attack": 0.1389,
+      "attack": 1.149,
+      "log_defence": 0.3619,
+      "is_new": false
+    },
+    "Man City": {
+      "log_attack": 0.0652,
+      "attack": 1.0674,
+      "log_defence": 0.2268,
+      "is_new": false
+    },
+    "Arsenal": {
+      "log_attack": 0.0,
+      "attack": 1.0,
+      "log_defence": 0.0968,
+      "is_new": false
+    },
+    "Newcastle": {
+      "log_attack": -0.0076,
+      "attack": 0.9924,
+      "log_defence": 0.4804,
+      "is_new": false
+    },
+    "Brighton": {
+      "log_attack": -0.132,
+      "attack": 0.8763,
+      "log_defence": 0.6482,
+      "is_new": false
+    },
+    "Tottenham": {
+      "log_attack": -0.1414,
+      "attack": 0.8681,
+      "log_defence": 0.7652,
+      "is_new": false
+    },
+    "Chelsea": {
+      "log_attack": -0.1485,
+      "attack": 0.862,
+      "log_defence": 0.3986,
+      "is_new": false
+    },
+    "Brentford": {
+      "log_attack": -0.1498,
+      "attack": 0.8609,
+      "log_defence": 0.5895,
+      "is_new": false
+    },
+    "Aston Villa": {
+      "log_attack": -0.1816,
+      "attack": 0.834,
+      "log_defence": 0.4881,
+      "is_new": false
+    },
+    "Nott'm Forest": {
+      "log_attack": -0.2823,
+      "attack": 0.7541,
+      "log_defence": 0.5265,
+      "is_new": false
+    },
+    "Crystal Palace": {
+      "log_attack": -0.2832,
+      "attack": 0.7533,
+      "log_defence": 0.5059,
+      "is_new": false
+    },
+    "Bournemouth": {
+      "log_attack": -0.288,
+      "attack": 0.7498,
+      "log_defence": 0.4963,
+      "is_new": false
+    },
+    "Luton": {
+      "log_attack": -0.2929,
+      "attack": 0.7461,
+      "log_defence": 1.0093,
+      "is_new": false
+    },
+    "Fulham": {
+      "log_attack": -0.2966,
+      "attack": 0.7433,
+      "log_defence": 0.5793,
+      "is_new": false
+    },
+    "Wolves": {
+      "log_attack": -0.3629,
+      "attack": 0.6957,
+      "log_defence": 0.7143,
+      "is_new": false
+    },
+    "West Ham": {
+      "log_attack": -0.3898,
+      "attack": 0.6772,
+      "log_defence": 0.6992,
+      "is_new": false
+    },
+    "Man United": {
+      "log_attack": -0.4049,
+      "attack": 0.667,
+      "log_defence": 0.5512,
+      "is_new": false
+    },
+    "Leeds": {
+      "log_attack": -0.4349,
+      "attack": 0.6474,
+      "log_defence": 0.9323,
+      "is_new": false
+    },
+    "Everton": {
+      "log_attack": -0.5535,
+      "attack": 0.5749,
+      "log_defence": 0.3353,
+      "is_new": false
+    },
+    "Burnley": {
+      "log_attack": -0.5683,
+      "attack": 0.5665,
+      "log_defence": 0.8315,
+      "is_new": false
+    },
+    "Ipswich": {
+      "log_attack": -0.6819,
+      "attack": 0.5056,
+      "log_defence": 0.9787,
+      "is_new": false
+    },
+    "Sheffield United": {
+      "log_attack": -0.6972,
+      "attack": 0.498,
+      "log_defence": 1.17,
+      "is_new": false
+    },
+    "West Brom": {
+      "log_attack": -0.7354,
+      "attack": 0.4793,
+      "log_defence": 0.8975,
+      "is_new": false
+    },
+    "Sunderland": {
+      "log_attack": -0.7517,
+      "attack": 0.4716,
+      "log_defence": 0.977,
+      "is_new": true
+    },
+    "Leicester": {
+      "log_attack": -0.7593,
+      "attack": 0.468,
+      "log_defence": 0.8842,
+      "is_new": false
+    },
+    "Watford": {
+      "log_attack": -0.8786,
+      "attack": 0.4154,
+      "log_defence": 0.9635,
+      "is_new": false
+    },
+    "Southampton": {
+      "log_attack": -0.9507,
+      "attack": 0.3865,
+      "log_defence": 0.9715,
+      "is_new": false
+    },
+    "Norwich": {
+      "log_attack": -1.1696,
+      "attack": 0.3105,
+      "log_defence": 1.0358,
+      "is_new": false
+    }
+  }
+}
