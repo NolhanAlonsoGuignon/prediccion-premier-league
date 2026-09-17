@@ -118,6 +118,14 @@ guardados en el notebook corresponden a una ejecución completa de referencia.
   ([PDF](https://www.ajbuckeconbikesail.net/wkpapers/Airports/MVPoisson/soccer_betting.pdf))
 - Artículo de referencia seguido para la implementación: [dashee87.github.io](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling-dixon-coles-and-time-weighting/)
 
+## Autores
+
+- Nolhan Denis Alonso Guignon ([@NolhanAlonsoGuignon](https://github.com/NolhanAlonsoGuignon))
+- Ismael Amador García
+- Pablo Araque del Valle
+- Diego Campos Prieto
+- Andrés Moreno Galiano
+
 ## Contexto
 
 Proyecto hecho en grupo para practicar programación secuencial vs. paralela con
